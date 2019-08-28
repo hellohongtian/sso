@@ -11,6 +11,7 @@
             "email": "853585832@qq.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "dev",
     "autoload" :{
   	"psr-4" : {
